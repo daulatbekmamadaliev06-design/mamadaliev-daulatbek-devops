@@ -32,3 +32,4 @@ if [ -f "Mamadaliev_Daulatbek_info.txt" ]; then
 else
     echo "Student information file does not exist."
 fi
+# System information script for DevOps laboratory
