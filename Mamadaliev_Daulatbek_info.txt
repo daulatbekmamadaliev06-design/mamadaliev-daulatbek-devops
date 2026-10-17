@@ -3,3 +3,4 @@ Surname: Mamadaliev
 Group: IT-2 2309
 Student ID: 123456
 Course: DevOps
+Project: DevOps Automation
