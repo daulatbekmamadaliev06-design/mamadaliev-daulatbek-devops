@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: mamadaliev-compose-container
+    environment:
+      STUDENT_NAME: Daulatbek
+      STUDENT_SURNAME: Mamadaliev
+      STUDENT_GROUP: "IT-2 2309"
+      STUDENT_ID: "123456"
